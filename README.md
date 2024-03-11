@@ -1,5 +1,4 @@
-
-# low-earners-anomaly-frontend
+# Low Earners Anomaly Frontend
 
 This is a placeholder README.md for a new repository
 
